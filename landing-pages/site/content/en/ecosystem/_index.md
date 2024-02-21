@@ -89,6 +89,8 @@ If you would you like to be included on this page, please reach out to the [Apac
 
 [Airflow DolphinDB Provider](https://github.com/dolphindb/airflow-provider-dolphindb) - Provides Hooks and Operators to run scripts with [DolphinDB](https://www.dolphindb.com).
 
+[Airflow DAG designer](https://www.kinisi.biz) - A web base UI to design Airflow DAGs with integrated Jupyter notebook and Airflow UI.  Reduce the learning curve required to use Airflow for ETL purpose and improve DAG management/maintainability.
+
 &nbsp;
 
 ## Async Providers
